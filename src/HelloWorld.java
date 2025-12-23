@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        // Master branch
-        System.out.println("Hello World Master!");
+        //  new  christmas branch
+        System.out.println("Merry Christmas!");
     }
 }
